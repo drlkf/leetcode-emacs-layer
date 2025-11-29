@@ -1,6 +1,5 @@
 (defconst myleetcode-packages
-  '(dash
-    graphql
+  '(graphql
     spinner
     aio
     leetcode))

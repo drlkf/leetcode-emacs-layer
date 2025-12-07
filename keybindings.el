@@ -5,6 +5,7 @@
 (spacemacs/set-leader-keys
   "a l l" 'leetcode
   "a l d" 'leetcode-show-current-problem
+  "a l D" 'leetcode-daily
   "a l r" 'leetcode-refresh
   "a l t" 'leetcode-try
   "a l u" 'leetcode-submit
